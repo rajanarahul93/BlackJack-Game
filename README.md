@@ -30,4 +30,3 @@ This project is a web-based implementation of the classic Blackjack card game. B
 - The project provides a simple and interactive way to experience the core mechanics of Blackjack in a web browser.
 - It's designed for educational purposes, allowing users to understand basic game flow and logic.
 
-Feel free to customize and expand upon this project to add more features, improve styling, or integrate additional functionalities!
